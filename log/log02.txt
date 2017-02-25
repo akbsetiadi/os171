@@ -1,0 +1,4 @@
+w02-210217-10-LR-About: Protection and Security, From: Lecturer
+w02-210217-20-PS-About: Doing lab week02
+w02-230217-10-LR-About: Check SUM with SHA1SUM, From: Lecturer
+w02-250217-10-PS-About: Doing lab week02
