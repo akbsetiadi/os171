@@ -1,0 +1,4 @@
+w03-280217-10-LR-About: Sudo, From: Lecturer
+w03-010317-20-PS-About: Doing lab week03
+w03-020317-10-LR-About: Boot, From: Lecturer
+w03-030317-10-PS-About: Lab week03
